@@ -1,2 +1,2 @@
-# ecommerce
-Artefacts for an example eCommerce store
+# Sample Data
+Data artefacts for an example projects
