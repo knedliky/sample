@@ -70,5 +70,17 @@
     "read_time": 4,
     "categories": "Events,Arts & Culture,Public Art",
     "location": "Sydney Opera House"
+  },
+  {
+    "$id": "A10007",
+    "$title": "Sydney's Sustainable Fashion Week: Eco-Friendly Runway",
+    "$link": "https://sydneylifestyle.example.com/articles/sustainable-fashion-week",
+    "$image_link": "https://sydneylifestyle.example.com/images/articles/sustainable-fashion.jpg",
+    "$description": "Sydney's inaugural Sustainable Fashion Week showcases local designers championing ethical production, recycled materials, and zero-waste collections. Featuring pop-up markets, workshops, and panel discussions on the future of fashion.",
+    "author": "Olivia Patel",
+    "publication_date": "2025-02-21",
+    "read_time": 7,
+    "categories": "Events,Fashion,Sustainability",
+    "location": "Carriageworks,Eveleigh"
   }
 ]
