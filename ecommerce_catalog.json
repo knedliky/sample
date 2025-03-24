@@ -6,6 +6,7 @@
     "$image_link": "https://example.com/images/products/classic-tshirt.jpg",
     "$description": "Soft, breathable 100% organic cotton t-shirt with a relaxed fit. Available in multiple colors and sizes.",
     "price": 24.99,
+    "price_per_week": 2.99,
     "currency": "USD",
     "availability": "in stock",
     "brand": "Example Clothing Co.",
